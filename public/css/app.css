@@ -1,0 +1,127 @@
+
+h4,.btn{
+    text-align: center;
+}
+div{
+    font: 18px Helvetica, sans-serif;
+    color:#3a3a3e;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .container{
+    text-align: center;
+  }
+  .previous {
+    
+    margin-top:20px;
+    width: 340px;
+
+  }
+.alert{
+    font: 15px Helvetica, sans-serif;
+    width: 340px;
+    margin-top:20px;
+}
+  .input-group{
+    margin-top:20px;
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-control{
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn_input{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.ui-menu-item-wrapper{
+    font: 18px Helvetica, sans-serif;
+}
+.step2{
+    margin-top:20px;
+    text-align: center;
+}
+
+  .places_block{
+      margin-top:20px;
+  }
+  .places {
+  
+  position: relative;   
+  border:solid;
+  border-width: 2px;
+  border-color:#abb0cd;
+  border-radius: 5px;
+  height:50px;
+  width: 340px;
+  margin-top: 10px;
+  font: 20px Helvetica, sans-serif;
+  }
+  .bi{
+  position: absolute;   
+  font-size: 1.5rem;
+  }
+  .bi-moon-fill {
+    top:10px;
+    left: 15px;
+  }
+  .pl-num{
+      position: absolute;   
+      top:10px;
+      left: 50px;
+  }
+  .bi-minecart{  
+    top:10px;
+      left: 110px;
+  }
+  .pl-car{
+      position: absolute;
+      top:10px;
+      left: 150px;
+  }
+  .bi-cash{
+      top:10px;
+      left: 220px;
+      
+  } 
+  
+  .pl-cash{
+      position: absolute;
+      top:10px;
+      left: 260px;
+  }
+
+  .result{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .no_places{
+    position: relative;   
+    top:10px;
+    height:50px;
+    width: 340px;
+    padding: 5 px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 5px;
+    text-align: center;
+    
+  }
+  .train_info{
+    width: 600px;
+    margin-top:20px;  
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ 
